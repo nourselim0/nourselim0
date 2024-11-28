@@ -1,14 +1,12 @@
-![Hassan Selim](header.svg)
+![Nour Selim](header.svg)
 
 ### Hi there 👋
 I work in many areas: VR, Game Dev, Backend, Cloud Infrastructure. I even used to make apps for Windows Phone 😁
 
 I have all sorts of personal projects, and I try to put them up here. I hope one day I can work on Open Source for a living.
 
-I'm currently working on [HitchHiker](https://hitchhiker.io) and [ReTag](https://retag.store)!
-
 <!--
-**hassanselim0/hassanselim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nourselim0/nourselim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
